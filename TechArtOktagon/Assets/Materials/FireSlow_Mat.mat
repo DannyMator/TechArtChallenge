@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fire_Mat
+  m_Name: FireSlow_Mat
   m_Shader: {fileID: -6465566751694194690, guid: 74736e246c8a6394ab54cad7692adce8,
     type: 3}
   m_ShaderKeywords: 
@@ -34,4 +34,4 @@ Material:
     - _NoiseStrength: 3
     m_Colors:
     - _DepthColor: {r: 0.24528301, g: 0.24528301, b: 0.24528301, a: 1}
-    - _NoiseSpeed: {r: -0.2, g: -0.8, b: 0, a: 0}
+    - _NoiseSpeed: {r: 0.2, g: -0.6, b: 0, a: 0}
