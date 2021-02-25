@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(Animator))]
-public class postLightFlicker : MonoBehaviour
+public class PostLightFlicker : MonoBehaviour
 {
     private Animator anim;
     public float minTime;
