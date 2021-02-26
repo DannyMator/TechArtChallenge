@@ -84,7 +84,7 @@ Material:
     - _Depth: -5
     - _DstBlend: 0
     - _EnvironmentReflections: 1
-    - _FadePositionY: -0.9
+    - _FadePositionY: -0.87
     - _FadeSpread: 0.17
     - _FogDensity: 0.5
     - _FogHeight: 0
